@@ -1,4 +1,5 @@
 Solana Token Account Manager 
+
 This project is a Solana-based decentralized application (DApp) designed to allow users to efficiently manage their token accounts, close unused accounts, and collect rent (SOL) from them. The primary purpose of the DApp is to help users reclaim rent stored in unused Solana token accounts. Token accounts on the Solana blockchain store rent deposits, which can be recovered by closing the accounts, especially when their token balance reaches zero.
 
 What I Built
